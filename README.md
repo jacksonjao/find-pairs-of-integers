@@ -31,7 +31,7 @@ function findPairsOfIntegers(listIntegers, targetSum){
 ### Sample output is shown below.
 ```
 > findPairsOfIntegers([1,9,5,0,20,-4,12,16,7], 12)
-+ 12,0
-+ 5,7
-+ 16,-4
++ 4 16
++ 0 12
++ 16 -4
 ```
