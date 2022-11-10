@@ -1,7 +1,7 @@
 # Find Pairs Of Integers Function
-The algorithm to find the pairs must be faster than O(n^2). All edge cases
-should be handled appropriately. This is _not_ a closed book test. You are
-encouraged to reach out with any questions that you come across.
+function that finds pairs of integers from a list that
+sum to a given value. The function will take as input the list of numbers as
+well as the target sum.
 
 ### Code
 ```javascript
